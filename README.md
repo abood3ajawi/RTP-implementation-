@@ -5,7 +5,7 @@
 <ol>
 <li>g++ -g udpserver.cpp -o udpserver</li>
 <li>./udpserver</li>
-<ol>
+</ol>
 
 <h2>client :</h2>
 <ol>
