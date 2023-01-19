@@ -9,7 +9,7 @@
 
 <h2>client :</h2>
 <ol>
-<li>g++ -g  udpclient.cpp -o udpclient -O2 -L/usr/X11R6/lib -lm -lpthread -lX11<</li>>
+<li>g++ -g  udpclient.cpp -o udpclient -O2 -L/usr/X11R6/lib -lm -lpthread -lX11</li>
 <li>./udpclient</<li>
 </ol>
 
